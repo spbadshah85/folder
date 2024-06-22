@@ -1,6 +1,7 @@
 #include<stdio.h>
-int main(int argc, char const *argv[])
+int main()
 {
     printf("sunil");
+    printf("raushan");
     return 0;
 }
